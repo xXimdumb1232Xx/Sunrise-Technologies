@@ -1,4 +1,4 @@
 {
-    "enabled": true,
+    "enabled": false,
     "message": "If you see this then im a dummy and forgot to disable the alert. please make a ticket"
 }
